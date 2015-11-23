@@ -65,7 +65,7 @@ $ ./huffman.out
 Input: MISSISSIPPI
 100011110111101011010
 *I//**M//P//S//
-A man a plan, a canal, Panama!
+Input: A man a plan, a canal, Panama!
 010110010111110000110001101011111100101000110001010111001101111010000100111001110111101100
 ** //**P//*c//A//**!//p//l//**n//*,//m//a//
 
