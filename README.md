@@ -56,6 +56,22 @@ I will supply you with these files:
   * You are NOT allowed to use std::priority_queue
   * You ARE allowed to use std::vector(but I see no need) and std::map(You have to use it)
 
+## OUTPUT
+
+The output I get for the finished project follows:
+
+```
+$ ./huffman.out
+Input: MISSISSIPPI
+100011110111101011010
+*I//**M//P//S//
+A man a plan, a canal, Panama!
+010110010111110000110001101011111100101000110001010111001101111010000100111001110111101100
+** //**P//*c//A//**!//p//l//**n//*,//m//a//
+
+```
+ * Your output may be slightly different depending on how you implement your heap
+
 ## Rubric
 
  * [20%] Your program must compile and run on our knuth linux server. TEST THIS! IF IT DOESNT COMPILE YOU LOSE 20% OFF THE TOP!
